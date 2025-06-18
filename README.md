@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Shivansh Singh</h1>
 <h3 align="center">Full Stack Developer | Open Source Enthusiast | Tech Educator</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivansh-singh-b15b67232/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:kaushik.shivansh.dev"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://shivanssh.github.io/Portfolio-2.0/"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=next.js" /></a>
+</p>
+
 
 
 
@@ -53,10 +59,4 @@
 </p>
 
 ---
-### 🤝 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivansh-singh-b15b67232/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:kaushik.shivansh.dev"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://shivanssh.github.io/Portfolio-2.0/"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=next.js" /></a>
-</p>
