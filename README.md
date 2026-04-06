@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on full-stack web applications using **NextJS + Spring Boot stack**
+- 🔭 I’m currently working on full-stack web applications using **NextJS + NodeJS**
 - 🌱 I’m learning more about **DevOps** and **Microservices**
 - 💬 Ask me about **React**, **Node.js**, **TypeScript**, **MongoDB**, **Docker**, **Airtable**, and more!
 - 💡 I love building tools that make development easier
