@@ -50,6 +50,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
+<!--
 ---
 
 ### 📈 GitHub Stats
@@ -59,4 +60,5 @@
 </p>
 
 ---
+-->
 
