@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-singh-b15b67232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:kaushik.shivansh.dev" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-via-ai.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=next.js" /></a>
+  <a href="https://shivanshsingh-dev.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=next.js" /></a>
 </p>
 
 
