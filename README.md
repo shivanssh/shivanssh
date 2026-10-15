@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shivansh Singh</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast | Tech Educator</h3>
+<h3 align="center">Senior Frontend Engineer | Open Source Enthusiast | Tech Educator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-singh-b15b67232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
