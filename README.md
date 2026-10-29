@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on full-stack web applications powered by **NextJS + Spring Boot**
 - 🌱 Currently deepening expertise in system design and cloud architecture.
-- 💬 Ask me about **React**, **Node.js**, **TypeScript**, **Postgres**, **Docker**, **Airtable**, and more!
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **JavaScript**, **Express**, **Nest**, **TypeScript**, **Postgres**, **Docker**, **Airtable**, and more!
 - 💡 I build tools that make development easier
 - 📫 Reach me at: **kaushik.shivansh.dev@gmail.com**
 
