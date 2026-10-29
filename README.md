@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on full-stack web applications powered by **NextJS + NodeJS**
+- 🔭 I’m currently working on full-stack web applications powered by **NextJS + Spring Boot**
 - 🌱 Currently deepening expertise in system design and cloud architecture.
 - 💬 Ask me about **React**, **Node.js**, **TypeScript**, **Postgres**, **Docker**, **Airtable**, and more!
 - 💡 I build tools that make development easier
